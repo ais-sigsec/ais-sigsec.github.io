@@ -21,12 +21,16 @@ author: AIS SIGSEC
 
 navbar-links:
   Officers: "officers"
-  WISP:
-    - WISP 2025 CFP: "https://easychair.org/cfp/wisp2025"
-    - WISP 2025 Submissions: "https://easychair.org/my/conference?conf=wisp2025"
-    - --------
+  WISP 2025:
+    - CFP: "https://easychair.org/cfp/wisp2025"
+    - Submissions: "https://easychair.org/my/conference?conf=wisp2025"
+  Prior WISP workshops:
     - WISP 2024 CFP: "https://easychair.org/cfp/wisp2024"
     - WISP 2024 Submissions: "https://easychair.org/my/conference?conf=wisp2024"
+    - --------
+    - WISP 2023 CFP: "https://easychair.org/cfp/wisp2023"
+    - WISP 2023 Submissions: "https://easychair.org/my/conference?conf=wisp2023"
+    - --------
   #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
