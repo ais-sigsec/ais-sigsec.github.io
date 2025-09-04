@@ -22,8 +22,8 @@ author: AIS SIGSEC
 navbar-links:
   Officers: "officers"
   WISP:
-    - WISP 2025:
-      - CFP: "https://easychair.org/cfp/wisp2025"
+    - WISP 2025 CFP: "https://easychair.org/cfp/wisp2025"{:target="_blank"}
+    - WISP 2025 Submissions: "https://easychair.org/my/conference?conf=wisp2025"{:target="_blank"}
   #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
