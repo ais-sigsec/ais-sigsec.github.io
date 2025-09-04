@@ -24,6 +24,9 @@ navbar-links:
   WISP:
     - WISP 2025 CFP: "https://easychair.org/cfp/wisp2025"
     - WISP 2025 Submissions: "https://easychair.org/my/conference?conf=wisp2025"
+    - --------
+    - WISP 2024 CFP: "https://easychair.org/cfp/wisp2024"
+    - WISP 2024 Submissions: "https://easychair.org/my/conference?conf=wisp2024"
   #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -129,7 +132,7 @@ edit_page_button: false
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
