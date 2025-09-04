@@ -24,6 +24,9 @@ navbar-links:
   WISP 2025:
     - CFP: "https://easychair.org/cfp/wisp2025"
     - Submissions: "https://easychair.org/my/conference?conf=wisp2025"
+    - --
+    - Paper template: "/assets/docs/wisp_2025_paper_template.doc"
+    - Poster template: "/assets/docs/wisp_2025_poster_template.pptx"
   Prior WISP workshops:
     - WISP 2024 CFP: "https://easychair.org/cfp/wisp2024"
     - WISP 2024 Submissions: "https://easychair.org/my/conference?conf=wisp2024"
