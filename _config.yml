@@ -37,7 +37,7 @@ navbar-links:
     - WISP 2021 CFP: "https://easychair.org/cfp/wisp2021"
     - WISP 2021 Submissions: "https://easychair.org/my/conference?conf=wisp2021"
     - --------
-    - WISP 2020 CFP: "https://easychair.org/cfp/wisp2020"
+    - WISP 2020 CFP: "/assets/docs/WISP-2020-CfP.pdf"
     - WISP 2020 Submissions: "https://easychair.org/my/conference?conf=wisp2020"
     - --------
   #About Me: "aboutme"
