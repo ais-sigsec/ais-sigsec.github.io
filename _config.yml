@@ -34,18 +34,21 @@ navbar-links:
     - WISP 2024 CFP: "https://easychair.org/cfp/wisp2024"
     - WISP 2024 Submissions: "https://easychair.org/my/conference?conf=wisp2024"
     - --
+    - WISP 2023 Program: "/assets/docs/wisp_2023_program.pdf"
     - WISP 2023 CFP: "https://easychair.org/cfp/wisp2023"
     - WISP 2023 Submissions: "https://easychair.org/my/conference?conf=wisp2023"
     - --
     - WISP 2022 CFP: "https://easychair.org/cfp/WISP2022"
     - WISP 2022 Submissions: "https://easychair.org/my/conference?conf=wisp2022"
     - --
+    - WISP 2021 Program: "/assets/docs/wisp_2021_program.pdf"
     - WISP 2021 CFP: "https://easychair.org/cfp/wisp2021"
     - WISP 2021 Submissions: "https://easychair.org/my/conference?conf=wisp2021"
     - --
-    - WISP 2020 CFP: "/assets/docs/WISP-2020-CfP.pdf"
+    - WISP 2020 CFP: "/assets/docs/wisp_2020_cfp.pdf"
     - WISP 2020 Submissions: "https://easychair.org/my/conference?conf=wisp2020"
     - --
+    - WISP 2019 Program: "/assets/docs/wisp_2019_program.pdf"
   #About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
