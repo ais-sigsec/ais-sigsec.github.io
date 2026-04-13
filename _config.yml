@@ -20,6 +20,7 @@ author: AIS SIGSEC
 ###############################################
 
 navbar-links:
+  Home: "/"
   Officers: "officers"
   Journal List: "journal_list"
   #WISP 2025:
