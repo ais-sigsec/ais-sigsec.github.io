@@ -21,6 +21,7 @@ author: AIS SIGSEC
 
 navbar-links:
   Officers: "officers"
+  Journal List: "journal_list"
   WISP 2025:
     - Program: "/assets/docs/wisp_2025_program.pdf"
     - CFP: "https://easychair.org/cfp/wisp2025"
