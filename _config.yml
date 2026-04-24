@@ -53,7 +53,7 @@ navbar-links:
     - --
     - WISP 2019 Program: "/assets/docs/wisp_2019_program.pdf"
   Photos:
-    - WISP 2024: "_posts/2026-04-24-wisp-2025-photos"
+    - WISP 2025: "2026-04-24-wisp-2025-photos"
   #About Me: "aboutme"
   #Resources:
   #- Beautiful Jekyll: "https://beautifuljekyll.com"
