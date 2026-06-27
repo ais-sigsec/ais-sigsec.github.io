@@ -25,7 +25,8 @@ navbar-links:
   Journal List: "journal_list"
   Documents:
     - Governing Documents:
-        - Bylaws: "/assets/docs/sigsec_bylaws.docx"
+    - Bylaws: "/assets/docs/sigsec_bylaws.docx"
+    - --
   #WISP 2025:
   #  - Paper template: "/assets/docs/wisp_2025_paper_template.doc"
   #  - Poster template: "/assets/docs/wisp_2025_poster_template.pptx"
