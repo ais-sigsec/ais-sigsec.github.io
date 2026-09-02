@@ -27,9 +27,9 @@ navbar-links:
     - Governing Documents:
     - Bylaws: "/assets/docs/sigsec_bylaws.docx"
     - --
-  #WISP 2025:
-  #  - Paper template: "/assets/docs/wisp_2025_paper_template.doc"
-  #  - Poster template: "/assets/docs/wisp_2025_poster_template.pptx"
+  WISP 2026:
+    - Paper template: "/assets/docs/wisp_2026_paper_template.docx"
+    - Poster template: "/assets/docs/wisp_2026_poster_template.pptx"
   Prior WISP workshops:
     - WISP Proceedings: "https://aisel.aisnet.org/sigsec/"
     - --
