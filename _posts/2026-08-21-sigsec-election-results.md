@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SIG SEC Named Outstanding SIG for 2025
+title: SIG SEC Election results
 ---
 
 # SIG SEC Election Results Announcement
